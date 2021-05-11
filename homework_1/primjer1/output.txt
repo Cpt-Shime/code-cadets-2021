@@ -1,1 +1,0 @@
-{Sven 15 true [Java Football Programming]}{Luka 15 true [Go Java Linux]}{Luka 15 true [Go Java Linux]}{Vedran 20 true [Lecturing Go Core]}{Sergej 28 true [Dishwashing Activism Go Docker]}
